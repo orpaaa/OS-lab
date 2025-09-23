@@ -22,8 +22,6 @@ def sstf(requests, head):
 
     return sequence, total_seek
 
-
-
 requests = [98, 183, 37, 122, 14, 124, 65, 67]
 head = 53
 
